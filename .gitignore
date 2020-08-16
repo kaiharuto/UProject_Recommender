@@ -1,0 +1,4 @@
+# project-wide .gitignore
+# added 2020-08-16
+
+.mypy_cache/
