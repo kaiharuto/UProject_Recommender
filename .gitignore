@@ -2,3 +2,6 @@
 # added 2020-08-16
 
 .mypy_cache/
+.ipynb_checkpoints/
+__pycache__/
+
